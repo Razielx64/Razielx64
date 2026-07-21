@@ -22,7 +22,7 @@
 ### Analytics ⚙️
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzesty&layout=donut-vertical&theme=omni)
+![Top Langs]
 
 ![Github Statistics](https://raw.githubusercontent.com/0xZesty/0xZesty/master/profile-summary-card-output/omni/3-stats.svg)
 
@@ -30,9 +30,9 @@
 ### Let's connect? 🤝
 
 <p align="left">
-<a href="https://github.com/0xZesty"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Razielx64"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/luiz-eduardo-76sec67/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/0xZesty"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/Razielx64"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/></a>
 
 
 </p>
