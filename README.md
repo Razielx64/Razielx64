@@ -22,7 +22,7 @@
 ### Analytics ⚙️
 
 
-![Top Langs]
+
 
 ![Github Statistics](https://raw.githubusercontent.com/0xZesty/0xZesty/master/profile-summary-card-output/omni/3-stats.svg)
 
